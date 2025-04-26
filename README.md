@@ -69,7 +69,7 @@ The script performs the following steps:
 
 1.  **Run the script:**
     ```bash
-    python Web_Retrieval.py # Replace your_script_name.py with the actual filename
+    python Web_Retrieval.py 
     ```
 
 2.  **Enter URL:**
