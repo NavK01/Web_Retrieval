@@ -1,0 +1,10 @@
+langchain-community 
+faiss-cpu
+langchain-huggingface
+transformers
+torch
+sentence-transformers
+langchain
+accelerate
+beautifulsoup4
+requests
